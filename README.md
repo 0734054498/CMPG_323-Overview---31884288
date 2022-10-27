@@ -15,3 +15,5 @@
 ## The Storage Of Credentials
 - To make sure that all my credentials and sensitive information for all my projects is safe and secured and nobody can access it I am going to hide them using the config.js. Another thing is creating a very strong password, updating the access credential on Github regurlarly and removing sensitive data that is on Github history and project file.
 
+## Changes
+The status for all the 
