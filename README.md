@@ -11,8 +11,7 @@ PROJECT 4 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--318
 PROJECT 5 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
 
 ## The Branching Strategy
--The branching strategy that I am going to use throughout the semester is coming up with a workflow of how my semester should look like. It will help me to plan my semester and know which project or training I should do in which date. Also, to know when my classes start and draft down questions that I mught have regarding the work that I should do. 
--Another branching strategy is creating a branch to be use foe coding. The branch created will then be used to make changes which will be committed.
+-The branching strategy that I am going to use throughout the semester is coming up with a workflow of how my semester should look like. It will help me to plan my semester and know which project or training I should do in which date. Also, to know when my classes start and draft down questions that I mught have regarding the work that I should do. Another branching strategy is creating a branch to be use foe coding. The branch created will then be used to make changes which will be committed.
 
 ## The .gitignore
 - The .gitignore file won`t be present because there are no files that needs to be ignored by Github.
