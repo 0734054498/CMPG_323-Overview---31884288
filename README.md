@@ -14,6 +14,7 @@ Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-3---31884288
 Users need to log in to the website. New users will have to register their account so that they can have access to the website. For registering only an email address and password will be required. Users will use the password to login to the website once they are registered.
 ## PROJECT 4 
 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--31884288
+Users need to log in to the website. New users will have to register their account so that they can have access to the website. For registering only an email address and password will be required. Users will use the password to login to the website once they are registered. After loging in, users may fill in the details of the required fileds for categories, zones and devices.
 ## PROJECT 5 
 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
 
