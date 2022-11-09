@@ -17,6 +17,7 @@ Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--31884288
 Users need to log in to the website. New users will have to register their account so that they can have access to the website. For registering only an email address and password will be required. Users will use the password to login to the website once they are registered. After loging in, users may fill in the details of the required fileds for categories, zones and devices.
 ## PROJECT 5 
 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
+This is the last project of the semester. Using the provided Excel document, we use Power BI to compare the Zones, Categories and Devices using different charts based on percentages, years, count, months and sum.
 
 # THE BRANCHING STRATEGY
 -The branching strategy that I am going to use throughout the semester is coming up with a workflow of how my semester should look like. It will help me to plan my semester and know which project or training I should do in which date. Also, to know when my classes start and draft down questions that I mught have regarding the work that I should do. Another branching strategy is creating a branch to be use foe coding. The branch created will then be used to make changes which will be committed.
