@@ -7,7 +7,7 @@
 Kanban Project Repo link: https://github.com/0734054498/CMPG_323-Overview---31884288/blob/main/README.md
 PROJECT 2 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project2---31884288 
 PROJECT 3 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-3---31884288
-PROJECT 4 Repo link:
+PROJECT 4 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--31884288
 PROJECT 5 Repo link:
 
 ## The Branching Strategy
