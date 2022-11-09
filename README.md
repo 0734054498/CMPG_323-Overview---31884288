@@ -5,7 +5,7 @@
 
 ## List of repositories
 Kanban Project Repo link: https://github.com/0734054498/CMPG_323-Overview---31884288/blob/main/README.md
-PROJECT 1 Repo link: 
+PROJECT 2 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project2---31884288 
 PROJECT 3 Repo link:
 PROJECT 4 Repo link:
 PROJECT 5 Repo link:
