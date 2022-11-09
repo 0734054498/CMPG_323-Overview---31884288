@@ -20,10 +20,10 @@ Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
 # THE BRANCHING STRATEGY
 -The branching strategy that I am going to use throughout the semester is coming up with a workflow of how my semester should look like. It will help me to plan my semester and know which project or training I should do in which date. Also, to know when my classes start and draft down questions that I mught have regarding the work that I should do. Another branching strategy is creating a branch to be use foe coding. The branch created will then be used to make changes which will be committed.
 
-## The .gitignore
+# THE .GITIGNORE
 - The .gitignore file won`t be present because there are no files that needs to be ignored by Github.
 
-## The Storage Of Credentials
+# STORAGE OF CREDENTIALS
 - To make sure that all my credentials and sensitive information for all my projects is safe and secured and nobody can access it I am going to hide them using the config.js. Another thing is creating a very strong password, updating the access credential on Github regurlarly and removing sensitive data that is on Github history and project file.
 
 
