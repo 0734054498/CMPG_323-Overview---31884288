@@ -1,19 +1,23 @@
 # CMPG_323-Overview---31884288
 
-## CREATING AND USING REPOSITORIES FOR EACH PROJECT
+# CREATING AND USING REPOSITORIES FOR EACH PROJECT
 - For each and every project a repository will be created. These repositories will be used throughout the semester to add and make changes on the Kanban Project. The link to all five project repositories will be updated in this ReadME.md file when they are created.
 
-## LIST OF PROECTS
-# Kanban Project Repo link: https://github.com/0734054498/CMPG_323-Overview---31884288/blob/main/README.md
-# PROJECT 2 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project2---31884288 
-# PROJECT 3 
+# LIST OF PROECTS
+## Kanban Project 
+Repo link: https://github.com/0734054498/CMPG_323-Overview---31884288/blob/main/README.md
+This where the branching strategy is used using tables and borads.
+## PROJECT 2 
+Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project2---31884288 
+## PROJECT 3 
 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-3---31884288
 Users need to log in to the website. New users will have to register their account so that they can have access to the website. For registering only an email address and password will be required. Users will use the password to login to the website once they are registered.
+## PROJECT 4 
+Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--31884288
+## PROJECT 5 
+Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
 
-#PROJECT 4 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-PROJECT-4--31884288
-#PROJECT 5 Repo link: https://github.com/Nokuthula-Embane/CMPG-323-Project-5---31884288
-
-## The Branching Strategy
+# THE BRANCHING STRATEGY
 -The branching strategy that I am going to use throughout the semester is coming up with a workflow of how my semester should look like. It will help me to plan my semester and know which project or training I should do in which date. Also, to know when my classes start and draft down questions that I mught have regarding the work that I should do. Another branching strategy is creating a branch to be use foe coding. The branch created will then be used to make changes which will be committed.
 
 ## The .gitignore
