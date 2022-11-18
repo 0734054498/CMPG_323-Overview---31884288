@@ -28,4 +28,30 @@ This is the last project of the semester. Using the provided Excel document, we 
 # STORAGE OF CREDENTIALS
 - To make sure that all my credentials and sensitive information for all my projects is safe and secured and nobody can access it I am going to hide them using the config.js. Another thing is creating a very strong password, updating the access credential on Github regurlarly and removing sensitive data that is on Github history and project file.
 
+# PORTFOLIO OF EVEIDENCE
+## A word file containing all the things I learned and my contributions throughout the semester which includes:
+- Contribution to classes
+- The creation of a professional LinkedIn account
+- The creation of a professional GitHub account
+- Joining the class LinkedIn group
+- Joining the UiPath Community Forum
+- Joining one or more Microsoft Community Forums
+- Joining Stack Overflow and Meetup
+- Microsoft and UiPath community forums 
+- Attending at least one community meetup 
+- Completing Git training
+- Completing Scrum training
+- Completing Robotic Process Automation training
+- Completing Cloud training
+- Completing Data Visualisation Reporting training
+- Submit project 1 GitHub repo URL
+- Submit project 2 GitHub repo URL
+- Submit project 3 GitHub repo URL
+- Submit project 4 GitHub repo URL
+- Submit project 5 GitHub repo URL
+- Contributing to the class LinkedIn group
+- The use of ReadME.Md files throughout the semester
+- The use GitHub project board throughout the semester
+- Updating the GitHub overview repository, as applicable, across the semester
+ ## was submitted
 
